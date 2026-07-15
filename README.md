@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Przemysław Okun</h1>
-<h3 align="center">🚀 Full-Stack Web Developer & Unity Engineer Building robust backends, interactive frontends, and immersive gameplay mechanics.</h3>
+<h3 align="center">🚀 Unity Developer with a strong passion for gaming and programming in general.</h3>
 
 - 🔭 I’m currently working on [Critical Mass](https://github.com/OPrzemek/critical-mass)
 
-- 🌱 I’m currently learning **Unity, C#, React**
+- 🌱 I’m currently learning **Unity, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OPrzemek?tab=repositories](https://github.com/OPrzemek?tab=repositories)
 
